@@ -5,6 +5,7 @@ import { COLORS, FONT, SIZES } from "../constants";
 const styles = StyleSheet.create({
     container: {
         width: "100%",
+        backgroundColor: "#5a55ca"
     },
     searchTitle: {
         fontFamily: FONT.bold,

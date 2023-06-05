@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: SIZES.large,
-    color: COLORS.primary,
+    color: COLORS.white,
     fontFamily: FONT.bold,
   },
   pointsContainer: {

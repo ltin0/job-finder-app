@@ -7,7 +7,7 @@
   gray2: "#C1C0C8",
 
   white: "#F3F4F8",
-  lightWhite: "#FAFAFC",
+  lightWhite: "#5a55ca",
 };
 
 const FONT = {

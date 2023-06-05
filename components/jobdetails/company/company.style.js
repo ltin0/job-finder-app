@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   jobTitle: {
     fontSize: SIZES.large,
-    color: COLORS.primary,
+    color: COLORS.white,
     fontFamily: FONT.bold,
     textAlign: "center",
   },
@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   companyName: {
     fontSize: SIZES.medium - 2,
-    color: COLORS.primary,
+    color: COLORS.white,
     fontFamily: FONT.medium,
   },
   locationBox: {
