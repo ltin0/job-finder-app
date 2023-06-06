@@ -6,6 +6,7 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ```sh
 npx create-expo-app -e with-router
+npx expo start
 ```
 
 ## 📝 Notes
